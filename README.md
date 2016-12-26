@@ -8,7 +8,7 @@ Adapted from:
 ### Examples
 See `ionosphere_deepbost.jl` for detailed usage, it should be easy to understand.
 
-Note that this work can do binary classification.
+Note that this work can only do binary classification.
 
 For multi-class deep boosting, please refer to this paper: [Multi-Class Deep Boosting](https://papers.nips.cc/paper/5514-multi-class-deep-boosting)
 
