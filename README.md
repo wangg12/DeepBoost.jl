@@ -19,6 +19,6 @@ See this paper for details
 ### Credits
 Written and maintained by:
 
-Gu Wang [https://github.com/wangg12](https://github.com/wangg12)
+[Gu Wang](https://github.com/wangg12)
 
-Yu Yang [https://github.com/yangyu12](https://github.com/yangyu12) 
+[Yu Yang](https://github.com/yangyu12) 
