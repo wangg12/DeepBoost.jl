@@ -11,7 +11,8 @@ See `ionosphere_deepbost.jl` for detailed usage, it should be easy to understand
 Note that this work can only do binary classification.
 
 For multi-class deep boosting, please refer to this paper:
- [Vitaly Kuznetsov, Mehryar Mohri, Umar Syed, Multi-Class Deep Boosting, NIPS'14](https://papers.nips.cc/paper/5514-multi-class-deep-boosting)
+
+[Vitaly Kuznetsov, Mehryar Mohri, Umar Syed, Multi-Class Deep Boosting, NIPS'14](https://papers.nips.cc/paper/5514-multi-class-deep-boosting)
 
 ### Reference Paper
 See this paper for details
