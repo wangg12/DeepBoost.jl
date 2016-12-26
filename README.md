@@ -3,7 +3,7 @@ deep boosting algorithm implementation in Julia
 
 Adapted from:
 * google's original c++ implementation: [https://github.com/google/deepboost](https://github.com/google/deepboost) 
-* dmarcous's c++ and R implementation [https://github.com/dmarcous/deepboost](https://github.com/dmarcous/deepboost).
+* dmarcous's c++ and R implementation [https://github.com/dmarcous/CRAN_deepboost](https://github.com/dmarcous/CRAN_deepboost).
 
 ### Examples
 See `ionosphere_deepbost.jl` for detailed usage, it should be easy to understand.
