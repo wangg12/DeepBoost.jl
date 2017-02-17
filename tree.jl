@@ -109,7 +109,7 @@ function BestSplitValue(value_to_weights::Dict{Float64, Vector{Float64}},
                   left_negative_weight + right_negative_weight)
   old_gradient = Gradient(old_error, tree_size, 0., -1, beta, lambda,
                           the_normalizer, num_examples, num_features)
-  for elem in value_to_weights # elem now is (key, value) Tuple
+  for elem in sort(collect(value_to_weights), by=x->x[1]) # elem now is (key, value) Tuple
     left_positive_weight  += elem[2][1]
     right_positive_weight -= elem[2][1]
     left_negative_weight  += elem[2][2]
