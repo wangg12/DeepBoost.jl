@@ -6,7 +6,7 @@ Adapted from:
 * dmarcous's c++ and R implementation [https://github.com/dmarcous/CRAN_deepboost](https://github.com/dmarcous/CRAN_deepboost).
 
 ### Examples
-See `ionosphere_deepbost.jl` for detailed usage, it should be easy to understand.
+See `ionosphere_deepboost.jl` for detailed usage, it should be easy to understand.
 
 Note that this work can only do binary classification.
 
